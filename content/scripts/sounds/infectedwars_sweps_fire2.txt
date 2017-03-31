@@ -1,0 +1,126 @@
+"Ares.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/m249/ares_shrike-2.wav"
+}
+
+"Kriss.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/Kriss/kriss-2.wav"
+}
+
+"M16A4IW.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/m16a4/m16a4-1.wav"
+}
+
+"M24IW.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/turboscout/m24_fire.wav"
+}
+
+"M3TACTICALIW.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/m3/m3tact-1.wav"
+}
+
+"SEMISPASIW.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/m3/shotteh-1.wav"
+}
+
+"SWARMBLASTER.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"infectedwars/swarmblaster.wav"
+}
+
+"BULLSHOT.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"npc/antlion/land1.wav"
+}
+
+"HornetGun.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"infectedwars/hornetgun.wav"
+}
+
+"HellRaiser.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"npc/antlion/foot1.wav"
+}
+
+"DemonRifle.Single2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"npc/ichthyosaur/snap.wav"
+}
+
+
+
+
+
+

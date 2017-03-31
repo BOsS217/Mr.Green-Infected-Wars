@@ -1,0 +1,115 @@
+"Ares.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/m249/ares_shrike-2.wav"
+}
+
+"Kriss.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/Kriss/kriss-2.wav"
+}
+
+"M16A4IW.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/m16a4/m16a4-1.wav"
+}
+
+"M24IW.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/turboscout/m24_fire.wav"
+}
+
+"M3TACTICALIW.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/m3/m3tact-1.wav"
+}
+
+"SEMISPASIW.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"weapons/m3/shotteh-1.wav"
+}
+
+"SWARMBLASTER.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"infectedwars/swarmblaster.wav"
+}
+
+"BULLSHOT.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"npc/antlion/land1.wav"
+}
+
+"HornetGun.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"infectedwars/hornetgun.wav"
+}
+
+"HellRaiser.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"npc/antlion/foot1.wav"
+}
+
+"DemonRifle.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"wave" 			"npc/ichthyosaur/snap.wav"
+}
+
+
+
+
+
+

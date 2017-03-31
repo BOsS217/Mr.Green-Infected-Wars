@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"last",
+				"lastProfileUpdate"
+			],
+			[
+				"globals",
+				"global.IS_DEV"
+			],
+			[
+				"partici",
+				"participant"
+			],
+			[
+				"parti",
+				"participant"
+			],
+			[
+				"partic",
+				"participant"
+			],
+			[
+				"callback",
+				"callbackFn"
+			],
+			[
+				"participant",
+				"participant"
+			],
+			[
+				"current",
+				"currentMatches"
+			],
+			[
+				"target",
+				"targetUserId"
+			],
+			[
+				"ava",
+				"avatars"
+			],
+			[
+				"highli",
+				"highlightedSessions"
+			],
+			[
+				"streamVe",
+				"streamVersions\t(env.json)"
+			],
+			[
+				"document",
+				"document).ready\t(bnnr_stats.php)"
+			],
+			[
+				"avail",
+				"availableChannels"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"callba",
+				"callbackFn"
+			],
+			[
+				"remove",
+				"removeParticipant\t(channel.js)"
+			],
+			[
+				"blockS",
+				"blockSearch"
+			],
+			[
+				"blockSea",
+				"blockSearchModerated"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"git",
+				"gitBranch"
+			],
+			[
+				"in_arr",
+				"in_array"
+			],
+			[
+				"fileName",
+				"fileName"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_healgun/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_hegrenade/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_knife/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_knife_old/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_knife_old/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/turret/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/admin_exploitblocker/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_ammosupply/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_aresshrike/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_aug/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_awp/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_base/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_base/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_base/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_base_dummy/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_base_melee/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_base_melee/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_base_old/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_deagle/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_egon/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_egon/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_egon/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_elites/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_famas/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_g36/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_galil/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_healgun/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/weapons/iw_healgun/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/proxbomb/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/sacrifical_baby/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/sacrifical_baby/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/sacrifical_baby/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/shadeball/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/suit/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/suit/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/suit/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/suit_new/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/suit_prop/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/suit_prop/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/suit_prop/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/trap/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/trap/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/trap/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/triplaser/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/triplaser/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/triplaser/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/tripmine/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/tripmine/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/tripmine/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/turret/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/turret/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/stomp_shockwave/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/ammobox/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/ammodrop/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/corpse_heal_field/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/corpse_heal_field/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/corpse_heal_field/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/demon_heal_field/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/demon_heal_field/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/demon_heal_field/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/egon_beam/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/egon_beam/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/egon_beam/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/hegrenade/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/hegrenade/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/hegrenade/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/infectionball/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/meatrocket/shared.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/proxbomb/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/entities/proxbomb/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/black_tracer/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/bloodstream/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/demon_heal/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/gib/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/gib_player/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/gore_bloodprop/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/refract_ring/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_muzzle_grenade/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_muzzle_highcal/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_muzzle_hmg/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_muzzle_pistol/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_muzzle_rifle/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_muzzle_silenced/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_shelleject/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_shelleject_rifle/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rg_shelleject_shotgun/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/rico_trace_black/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/entities/effects/bloodsplash/init.lua",
+		"/H/Projects/Limetric/GoTinder/trunk/index.php",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/xrayvision.lua",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/routes/ioapi.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/classes/session.js",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/greencoins/sv_greencoins.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_hud.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_hudpickup.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_menu.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_radialmenu.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_scoreboard.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_screeneffects.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_targetid.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/commands.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/init.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/sv_anti_map_exploit.lua",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/classes/match.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/base/matches.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/classes/user.js",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/cl_deathnotice.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/greencoins/sh_greencoins.lua",
+		"/H/Projects/Hobby/InfectedWars/trunk/gamemode/anti_map_exploit.lua",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/utils.js",
+		"/C/Users/Jarno/AppData/Local/Temp/~flashfxp/DE9AB9C2_edit.tmp/message.js.php",
+		"/C/Users/Jarno/AppData/Local/Temp/~flashfxp/8A4767B9_edit.tmp/wp-config.php",
+		"/C/Users/Jarno/Documents/OpenRCT2/groups.json",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/misc/reportModeration.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/base/sessions.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/base/users.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/classes/chat.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/classes/channel.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/base/chats.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/app.js",
+		"/H/Projects/Limetric/ChatAHOY/server/trunk/.eslintrc.json",
+		"/C/Users/Jarno/AppData/Local/Temp/~flashfxp/22E76609_edit.tmp/jsonapi.php",
+		"/C/Users/Jarno/Documents/index.php",
+		"/H/Projects/Limetric/SoChat/soChatClient/includes/footer.inc.php",
+		"/C/Users/Jarno/AppData/Local/Temp/~flashfxp/8A439043_edit.tmp/message.js.php",
+		"/H/Projects/Limetric/CMV-Temp/repboost.php",
+		"/H/Jarno/Documents/test.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"H:\\Projects\\Limetric\\Strangers\\server\\trunk,-H:\\Projects\\Limetric\\Strangers\\server\\trunk\\node_modules",
+			"-H:\\Projects\\Limetric\\Strangers\\server\\trunk\\node_modules,H:\\Projects\\Limetric\\Strangers\\server\\trunk",
+			"-H:\\Projects\\Limetric\\Strangers\\server\\trunk\\node_modules,<open folders>",
+			"-H:\\Projects\\Limetric\\Strangers\\server\\trunk\\node_modules",
+			"",
+			"-H:\\Projects\\Limetric\\Strangers\\server\\trunk\\node_modules",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gamemodeName",
+			"songlist",
+			"getChat",
+			"TinderSex",
+			"options_shared",
+			"--[[*****************************************************************************\n * Infected Wars, an open source Garry's Mod gamemode.\n *\n * Infected Wars is the work of multiple authors, a full list can be found in contributors.md\n * For more information, visit https://github.com/JarnoVgr/InfectedWars\n *\n * Infected Wars is free software: you can redistribute it and/or modify\n * it under the terms of the GNU General Public License as published by\n * the Free Software Foundation, either version 3 of the License, or\n * (at your option) any later version.\n *\n * A full copy of the GNU General Public License can be found in licence.txt\n *****************************************************************************]]",
+			"saveGeo",
+			"distance",
+			"geo",
+			"getProfile",
+			"getMatches",
+			"user.id",
+			"setGeo",
+			"geo",
+			"forceStop",
+			"avatar",
+			"calculateAge",
+			"getAge",
+			"calculateAge",
+			"usersProfiles",
+			"GetMatches",
+			"lastParticipantId",
+			"addUser",
+			"hasSentTo",
+			"like",
+			"onGetMatches",
+			"shown",
+			"channelList",
+			"onChannelList",
+			"onRecStreamInfo",
+			"sendMatches",
+			"matches",
+			"reset",
+			"removeUserIdSession",
+			"reset",
+			"generateIdentifier",
+			"getAge",
+			"getLevelNumber",
+			"generateIdentifier",
+			"getLevelNumber",
+			"reset()",
+			"_.",
+			".matches",
+			"matches",
+			"reset",
+			" reset",
+			"removeSession",
+			"loadMatches",
+			"setId",
+			"console.log",
+			"setId",
+			"_.",
+			"ioSocket.",
+			"this.ioSocket.emit",
+			".remo",
+			"setId",
+			".send",
+			"setId",
+			".send",
+			"onChatReport",
+			".id =",
+			"onChatJoin",
+			"start",
+			"uniqueIdentifier",
+			"counter",
+			"checkBrokenImages",
+			"utils.rand",
+			"var",
+			"cloneObject",
+			"extendArray",
+			"extendRecursively",
+			"hashFile",
+			"fs",
+			"utils.log",
+			"colors",
+			"Sync",
+			"setChannel",
+			"uniqueIdentifier",
+			"express",
+			"appPartialReady",
+			"build",
+			"channels",
+			"boosts_query",
+			"70",
+			"repboost_fetch",
+			"parseData",
+			"Badoo",
+			"/157",
+			"visitorLocale",
+			"enet",
+			"121",
+			"relatiepla",
+			"type",
+			"gingerBoxData",
+			"generateXirSysRequest",
+			"webpurify",
+			"ignoreListTimeOut",
+			"key",
+			"getParticipantsGeoDistance",
+			"key",
+			"partnerKey",
+			"sessionKey",
+			"lodash",
+			"authenticateByFb",
+			"var",
+			"isEnabled",
+			"this.localization =",
+			"getLocalization",
+			"localization",
+			"localization\nlocalization",
+			"localization",
+			"io",
+			"cacheavatars",
+			"avatars",
+			"highlightedAvatars",
+			"cacheParticipantsCount",
+			"participantsCountCache",
+			"type",
+			"cacheHighlightedAvatars",
+			"participantsCountCache",
+			"authenticated",
+			".error",
+			"profile.avatar =",
+			"profile.avatar",
+			"avatar",
+			"participants",
+			"var ",
+			"heartbeat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.emit",
+			"cacheAvatars",
+			"avatars",
+			"AHOY",
+			"geoCache"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

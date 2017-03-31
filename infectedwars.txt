@@ -1,0 +1,6 @@
+"infectedwars"
+{
+	"base"		"base"
+	"title"		"Infected Wars"
+	"menusystem"	"1"
+}
